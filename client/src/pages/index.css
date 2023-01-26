@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/comfortaa/v40/1PtCg8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMXL830efAesmwYSFoxBEL_I2udQ.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+.pageView > div > div > button {
+    display: none
+}
+
+.pageView > div > div > div > div > .edit-buttons {
+    display: none
+}
+
+.TextLoginStyle {
+    font-family: Comfortaa;
+}
